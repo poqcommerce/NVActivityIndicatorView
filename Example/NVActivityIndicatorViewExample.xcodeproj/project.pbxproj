@@ -209,6 +209,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -488,6 +489,7 @@
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = NVActivityIndicatorViewExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 4.5.2;
 				PRODUCT_BUNDLE_IDENTIFIER = me.vinhis.NVActivityIndicatorViewExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -504,6 +506,7 @@
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = NVActivityIndicatorViewExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 4.5.2;
 				PRODUCT_BUNDLE_IDENTIFIER = me.vinhis.NVActivityIndicatorViewExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
